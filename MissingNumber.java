@@ -2,10 +2,7 @@ package LogicalProgrames;
 
 public class MissingNumber
 {
-public void funA()
-{
-System.out.println("funA");
-}
+
 	public static void main(String[] args)
 	{
       int sum = 0;
